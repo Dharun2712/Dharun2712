@@ -1,59 +1,65 @@
-# Hi 👋, I'm Dharun Kumar  
+<div align="center">
 
-💫 **About Me:**  
-🔭 I’m currently working on **AI-Powered Plant Disease Detection** and **RAG-based Chat System**  
-🌱 I’m currently learning **Full-Stack Development (MERN & PHP)**  
-💡 Passionate about building **innovative, data-driven web applications**  
-🎯 Exploring **AI + Web Integration** for real-world solutions  
-📫 How to reach me: **dharunkumar2004@gmail.com**
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Dharun+Kumar;Full+Stack+Developer+💻;AI+%26+Data+Science+Explorer+🤖;Cloud+%26+Innovation+Enthusiast+☁️)
 
-💻 **Driven Computer Science Student** with a passion for transforming ideas into impactful digital solutions.  
-I love crafting beautiful interfaces, solving complex backend challenges, and exploring AI innovations that shape the future.
+
+
+</div>
 
 ---
 
-### 🌐 **Socials:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
+<h2 align="center">💫 About Me</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-Computer_Science-blue?style=for-the-badge&logo=google-scholar" />
+  <img src="https://img.shields.io/badge/Role-Full_Stack_Developer-white?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Focus-AI_&_Innovation-red?style=for-the-badge&logo=tensorflow" />
+</p>
+
+💡 Passionate about blending <b>AI</b> and <b>Web Tech</b> to create smart digital experiences.  
+⚙️ Love learning new frameworks, experimenting with <b>Cloud</b> and <b>Automation</b>.  
+🔥 Currently building <b>AI-powered web apps</b> and real-time systems.  
+🎯 Aim: **To innovate, inspire, and impact through technology.**
+
 
 ---
 
-### 💻 **Tech Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🚀 Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,php,js,react,html,css,tailwind,mongodb,mysql,git,github,linux,vscode" />
+</p>
 
 ---
 
-### 📊 **GitHub Stats:**  
-![](https://github-readme-stats.vercel.app/api?username=yourusername&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=false&layout=compact)
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dharunkumar&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharunkumar&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
-### 🏆 **GitHub Trophies:**  
-![](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🧠 Fun Fact  
+> "I turn coffee ☕ into code, and ideas 💡 into innovation."
 
 ---
 
-### ✍️ **Random Dev Quote:**  
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dharun&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub trophies" />
+</p>
 
 ---
 
-### 🔝 **Top Contributed Repo:**  
-![](https://github-contributor-stats.vercel.app/api?username=yourusername&limit=5&theme=radical&combine_all_yearly_contributions=true)
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/dharunkumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dharunkumarm2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/dharunkumar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" alt="coding animation">
+</p>
