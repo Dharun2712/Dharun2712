@@ -19,7 +19,7 @@
 <div align="center">
 
 <!-- STATUS BADGES -->
-<a href="https://www.linkedin.com/in/dharunkumar">
+<a href="https://www.linkedin.com/in/dharunkumar-dev">
   <img src="https://img.shields.io/badge/Open%20To%20Work-00C4FF?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open To Work"/>
 </a>
 &nbsp;
