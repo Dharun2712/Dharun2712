@@ -278,7 +278,7 @@ goal        : "Innovate. Inspire. Impact."
 
 <!-- [REPLACE: Update all links below with your real profile URLs] -->
 
-<a href="https://www.linkedin.com/in/dharunkumar">
+<a href="https://www.linkedin.com/in/dharunkumar-dev">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
